@@ -1,0 +1,80 @@
+.conteiner1{
+    width: 100%;
+    max-width: 921px;
+    height: 353px;
+    margin: 0 auto;
+}
+.hospital{
+    padding-top: 139px;
+}
+.hospital_title{
+    text-align: center;
+}
+.hospital_title h4{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #4D77FF;
+}
+.hospital_title h1{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color:  #121212;
+    text-align: center;
+}
+.hospital_card1 h4{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 28px;
+    color: #121212;
+    padding-top: 12px;
+}
+
+.hospital_card1 p{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #696969;
+
+}
+
+
+
+
+
+
+
+
+/* hospital card------ */
+
+.hospital_card{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 53px;
+}
+.hospital_card1{
+    width: 100%;
+    max-width: 287px;
+    height: 190px;
+    text-align: center;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 0px 10px 40px rgba(18, 18, 18, 0.1);
+    padding-top: 50px;
+}
+
+.hospital_card1 h1{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #121212;
+}
+

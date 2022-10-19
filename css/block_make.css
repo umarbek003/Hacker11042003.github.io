@@ -1,0 +1,21 @@
+.make_content{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 142px;
+}
+.make_img img {
+    border-radius: 1000px;
+}
+
+.doctor_img_title2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 320px;
+}
+.doctor_img_title3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 335px;
+}

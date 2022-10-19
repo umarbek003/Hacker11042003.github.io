@@ -1,0 +1,75 @@
+.conteiner3{
+    width: 100%;
+    max-width: 1340px;
+    margin: 0 auto;
+}
+.block_about_us{
+    padding-top: 160px;
+    padding-bottom: 200px;
+}
+.about_title{
+    text-align: center;
+
+}
+.about_title h1{
+ 
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #121212;
+}
+.about_title p{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #696969;
+}
+
+.about_img_title {
+    padding-top: 151px;
+    display: flex;
+    justify-content: space-between;
+    gap: 5rem;
+}
+.img_div{
+    border: 2px solid #4D77FF;
+    position:absolute;
+    left: 50px;
+    width: 425px;
+    height: 100px;
+}
+
+.about_title1 p{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 40px;
+    color: #121212;
+    padding-top: 50px;
+    
+}
+.about_title1{
+    padding-left: 7.3rem;
+    padding-right: 7.3rem;
+}
+.about_subtitle h4{
+    font-weight: 700;
+    font-size: 20px;
+}
+.about_subtitle p{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    position: relative;
+    top: -25px;
+    color: #696969;
+}
+.about_subtitle{
+    margin-top: 5rem;
+}
+
+
+

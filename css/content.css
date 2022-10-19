@@ -1,0 +1,47 @@
+.intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: center;
+    width: 100%;
+    padding-top: 8rem;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+.content_title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.subtitle{
+    padding-right: 3rem;
+}
+
+.subtitle h1{
+    font-size: 54px;
+    font-weight: 700;
+}
+.subtitle p{
+    margin-top: 26px;
+    font-size: 14px;
+    line-height: 20px;
+    padding-right: 70px;
+    color:  #696969;
+
+}
+.content_img img{
+    width: 537px;
+    height: 590px;
+}
+.subtitle button{
+    margin-top: 26px;
+    font-size: 16px;
+    padding: 16px 36px;
+    border-radius: 15px;
+    border: none;
+    background-color:  #4D77FF ;
+    color: #fff;
+    cursor: pointer;
+}
